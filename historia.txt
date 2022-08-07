@@ -1,7 +1,9 @@
 hola, Mi nombre es Aldo Octavio Trejo Garcia
 
-Actualmente Tengo 27 años, vivo en San Juan del rio,Queretaro
+Actualmente Tengo 27 años, vivo Queretaro de Arteaga
 
 Soy Ing. Electornico y estudio desarrollo web en Platzi
 
-Disfruto jugar videojuegos y ver series de ciencia ficcion
+Ademas quisiera terminar de aprender ingles este año
+
+y tambier desarrollarme en python y javascript
