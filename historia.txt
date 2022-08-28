@@ -6,6 +6,8 @@ Soy Ing. Electornico y estudio desarrollo web en Platzi
 
 master 1
 
+master 2
+
 Ademas quisiera terminar de aprender ingles este año
 
 y tambier desarrollarme en python y javascript
